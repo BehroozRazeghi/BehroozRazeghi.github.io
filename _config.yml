@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Behrooz Razeghi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Researcher at Idiap Research Institute"
   location         : "Martigny, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?user=MR0G8WgAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.behroozrazeghi.com/"
   bitbucket        :
   codepen          :
   dribbble         :
